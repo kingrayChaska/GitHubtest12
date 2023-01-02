@@ -1,0 +1,237 @@
+body{
+    background-color: #000000;
+    background-size: cover;
+}
+.header img{
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin-left: 50px;
+    padding: 0px;
+    padding-left: 0px;
+    border-radius: 50px;
+    border:0%;
+    margin-right: 5px;
+    margin-top: 23px;
+    
+
+}
+.h2{
+    float: left;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: fit-content;
+    padding: 5px;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.box a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 5px ;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 0px;
+    margin-left: 0px;
+    display: flex;
+    position:inherit;
+    font-family: sans-serif;
+    width: 90px;
+
+}
+.button{
+    border: none;
+    border-radius: 40px;
+    color: black;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    font-family: sans-serif;
+}
+.box2{
+    padding-right: 25px;
+    margin: 20px;
+}
+.center{
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    font-size: 30px;
+    padding-bottom: 0px;
+}
+p{
+    font-size: 11px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    text-align: center;
+    padding: 0px;
+}
+.b3{
+    padding: 10px;
+    /*display: flex;*/
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin: 5px;;
+    justify-items: center;
+    float: left;
+}
+.button2{
+    background-color: #a8ff35;
+    text-align: center;
+    border: none;
+    border-radius: 60px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    justify-items: center;
+    font-size: 15px;
+    
+}
+.side{
+    padding: 0%;
+    margin: 0%;
+    transform: rotate(4deg);
+}
+.rsch{
+    display: grid;
+    flex-direction: row;
+    justify-content:space-evenly;
+    justify-items: center;
+    width:auto;
+    float: left;
+    
+
+}
+.bend{
+border-radius: 10px;
+transform: rotate(90deg);
+}
+.dip{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    padding-left: 40px;
+}
+.tab1{
+    height: 60px;
+    width: 250px;
+    padding: 0;
+    transform: rotate(-4deg);
+    position: relative;
+    grid-template-columns: repeat(20, 2fr);
+    display: grid;
+}
+.tab2{
+    height: 60px;
+    width: 250px;
+    padding: 0;
+    transform: rotate(2deg);
+    margin:px;
+    position: relative;
+    grid-template-columns: repeat(20, 2fr);
+    display: grid;
+}
+.tab3{
+    height: 60px;
+    width: 250px;
+    padding: 0;
+    transform: rotate(-4deg);
+    position: relative;
+    grid-template-columns: repeat(20, 2fr);
+    display: grid;
+}
+.tab4{
+    height: 60px;
+    width: 250px;
+    padding: 0;
+    transform: rotate(2deg);
+}
+.foot{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    margin: 40px;
+}
+.bud{
+    background-color: lime;
+}
+.heads{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 30px;
+}
+.sol{
+    font-family: sans-serif;
+    padding-left: 30px;
+    text-align: center;
+    transform: rotate(4deg);
+
+
+}
+.mid img{
+    height: 80px;
+    border: 50px solid white;
+    border-radius: 10px;
+
+}
+.last{
+    font-family: sans-serif;
+    padding-left: 30px;
+    text-align: center;
+    transform: rotate(4deg);
+
+}
+.solution{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    padding:50px;
+    margin: 10px;
+    
+
+}
+.foots{
+    font-size: small;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding-top: 0%;
+}
+.bond{
+    padding: 0px;
+    justify-content: center;
+    justify-items: center;
+    
+}
+.bends{
+    border-radius: 10px;
+transform: rotate(-290deg);
+}
+.bend2{
+    border-radius: 10px;
+transform: rotate(90deg);
+}

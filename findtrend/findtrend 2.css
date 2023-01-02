@@ -1,0 +1,59 @@
+body{
+    background-color: lime;
+}
+.head{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 30px;
+}
+.sol{
+    font-family: sans-serif;
+    padding-left: 30px;
+    text-align: center;
+    transform: rotate(4deg);
+
+
+}
+.mid img{
+    height: 80px;
+    border: 50px solid white;
+    border-radius: 10px;
+
+}
+.last{
+    font-family: sans-serif;
+    padding-left: 30px;
+    text-align: center;
+    transform: rotate(4deg);
+
+}
+.solution{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    padding:50px;
+    margin: 10px;
+    
+
+}
+.foot{
+    font-size: small;
+    font-family: sans-serif;
+    text-align: center;
+}
+.bond{
+    padding: 0px;
+    justify-content: center;
+    justify-items: center;
+    
+}
+.bend{
+    border-radius: 10px;
+transform: rotate(-290deg);
+}
+.bend2{
+    border-radius: 10px;
+transform: rotate(90deg);
+}
